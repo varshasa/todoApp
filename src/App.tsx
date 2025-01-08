@@ -1,4 +1,4 @@
-// src/App.tsx
+
 import React from 'react';
 import { TodoProvider } from './context/TodoContext.tsx';
 import AddTodo from './components/AddTodo.tsx';
